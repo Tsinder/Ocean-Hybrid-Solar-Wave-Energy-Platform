@@ -1143,3 +1143,39 @@ This publication is intended to prevent exclusive patent claims on the disclosed
 ---
 
 End of Document
+# OHSWEP System Architecture Diagram
+
+Below is the full engineering exploded-view diagram of the Ocean Hybrid Solar–Wave Energy Platform (OHSWEP).
+
+This diagram illustrates the complete system architecture including:
+
+- solar concentrator optics
+- tandem photovoltaic cells
+- marine optical protection layers
+- seawater cooling system
+- piezoelectric wave energy harvesting layer
+- hydraulic energy conversion system
+- triboelectric nanogenerator layer
+- structural marine platform
+- power electronics and storage systems
+
+---
+
+![OHSWEP Exploded Architecture](images/ohswep_exploded_architecture.png)
+
+---
+
+**Figure 1 — Exploded Engineering Diagram of the Ocean Hybrid Solar–Wave Energy Platform**
+
+Copyright © Vadym Tsinderhoz  
+Defensive Publication — Prior Art  
+13 March 2026<p align="center">
+  <img src="images/ohswep_exploded_architecture.png" width="900">
+</p>
+
+<p align="center">
+<b>Figure 1 — Exploded Engineering Diagram of the Ocean Hybrid Solar–Wave Energy Platform</b><br>
+Copyright © Vadym Tsinderhoz<br>
+Defensive Publication — Prior Art<br>
+13 March 2026
+</p>
