@@ -866,3 +866,280 @@ AI energy management software
 ---
 
 # End of Document
+# PRIOR_ART_INDEX.md
+
+## Ocean Hybrid Solar–Wave Energy Platform (OHSWEP)
+### Prior Art Technology Index and Architectural Combinations
+
+Author: Vadym Tsinderhoz  
+Year: 2026  
+Status: Defensive Publication / Prior Art Disclosure  
+
+Repository:
+https://github.com/Tsinder/Ocean-Hybrid-Solar-Wave-Energy-Platform
+
+---
+
+# Purpose of This Document
+
+This document provides a structured index of technologies and architectural combinations disclosed in the Ocean Hybrid Solar–Wave Energy Platform (OHSWEP) system.
+
+The goal is to explicitly document:
+
+• technological subsystems  
+• functional integrations  
+• system combinations  
+• architectural configurations  
+
+This index strengthens the defensive publication by clearly identifying the disclosed technological combinations as prior art.
+
+---
+
+# 1 Core System Concept
+
+The OHSWEP architecture describes a **hybrid ocean-based energy harvesting system** combining multiple renewable energy sources into a unified modular platform.
+
+Primary integrated energy sources:
+
+• solar radiation  
+• wave mechanical pressure  
+• hydrodynamic motion  
+• passive seawater cooling  
+
+The system is designed for deployment in floating ocean environments and scalable to large ocean energy farms.
+
+---
+
+# 2 Solar Energy Technologies
+
+The following photovoltaic technologies are disclosed:
+
+• tandem perovskite–silicon photovoltaic cells  
+• monocrystalline silicon photovoltaic cells  
+• multi-layer photovoltaic structures  
+• photovoltaic systems integrated with optical concentrators  
+
+Optical enhancements:
+
+• anti-reflective nano coatings  
+• hydrophobic optical surfaces  
+• self-cleaning photocatalytic coatings  
+
+Solar concentration systems:
+
+• Fresnel lens concentrators  
+• reflective parabolic concentrators  
+• optical mirror concentrators  
+
+---
+
+# 3 Wave Energy Conversion Technologies
+
+Wave energy harvesting technologies disclosed include:
+
+• piezoelectric deformation energy harvesting  
+• hydraulic wave energy converters  
+• triboelectric nanogenerators driven by water movement  
+
+Mechanical energy transfer mechanisms include:
+
+• wave pressure induced deformation  
+• hydraulic piston displacement  
+• oscillatory mechanical structures
+
+---
+
+# 4 Thermal Management Technologies
+
+Thermal regulation methods disclosed:
+
+• seawater-based cooling systems  
+• microchannel heat exchangers  
+• passive ocean thermal dissipation  
+• graphene-enhanced thermal conduction layers  
+
+Cooling architecture includes:
+
+• seawater intake channels  
+• microchannel cooling plates  
+• heat exchange structures beneath photovoltaic cells
+
+---
+
+# 5 Marine Durability Technologies
+
+Protection against marine environments includes:
+
+• marine epoxy corrosion protection  
+• polyurethane marine coatings  
+• ceramic nano protective coatings  
+• hydrophobic coatings  
+• anti-biofouling surface treatments  
+
+Environmental resistance features include:
+
+• saltwater corrosion protection  
+• UV resistance  
+• wave impact durability  
+• biological fouling prevention
+
+---
+
+# 6 Structural Platform Technologies
+
+Structural components include:
+
+• floating ocean platform structures  
+• modular energy tile structures  
+• marine aluminum structural frames  
+• stainless steel reinforcement systems  
+• titanium fasteners and connectors  
+
+Floating stabilization technologies include:
+
+• buoyant support structures  
+• wave-damping mechanical systems
+
+---
+
+# 7 Power Electronics Architecture
+
+Power conversion systems disclosed include:
+
+• hybrid DC power bus architecture  
+• MPPT photovoltaic controllers  
+• wave energy control systems  
+• DC–DC power conversion modules  
+• grid interface systems  
+
+Energy flow integration:
+
+Solar energy  
+Wave energy  
+Hydraulic energy  
+
+Integrated through a unified power management system.
+
+---
+
+# 8 Energy Storage Technologies
+
+Energy buffering and storage systems include:
+
+• supercapacitor buffering systems  
+• lithium battery storage systems  
+
+Future-compatible storage options disclosed:
+
+• sodium-ion batteries  
+• solid-state battery systems
+
+---
+
+# 9 Artificial Intelligence Control Systems
+
+AI-based system management includes:
+
+• solar tracking optimization  
+• wave energy forecasting  
+• thermal management optimization  
+• predictive maintenance systems  
+• fault detection and diagnostics  
+
+AI systems operate as supervisory energy management layers.
+
+---
+
+# 10 Modular Energy Architecture
+
+The architecture supports modular deployment.
+
+Deployment hierarchy:
+
+Energy Module  
+↓  
+Cluster  
+↓  
+Energy Block  
+↓  
+Ocean Energy Farm  
+
+Module scale:
+
+5–20 m²
+
+Cluster scale:
+
+50–500 modules
+
+Energy block scale:
+
+1,000–10,000 modules
+
+Ocean energy farms:
+
+100,000+ modules.
+
+---
+
+# 11 Technology Integration Combinations
+
+The following combinations are explicitly disclosed as prior art.
+
+Combination A  
+Hybrid solar photovoltaic + wave energy harvesting platform
+
+Combination B  
+Solar concentrators integrated with tandem photovoltaic cells
+
+Combination C  
+Floating offshore platforms combining photovoltaic and wave energy conversion
+
+Combination D  
+Photovoltaic systems integrated with seawater cooling
+
+Combination E  
+Hybrid renewable energy modules combining solar and mechanical wave harvesting
+
+Combination F  
+Ocean-scale modular renewable energy farms composed of hybrid solar-wave modules
+
+Combination G  
+Marine-protected photovoltaic arrays exposed to constant wave impact
+
+Combination H  
+AI-controlled hybrid ocean renewable energy platforms
+
+Combination I  
+Wave energy harvesting integrated with photovoltaic energy farms
+
+Combination J  
+Floating renewable energy modules interconnected into large ocean energy grids
+
+---
+
+# 12 Intended Scope of Prior Art
+
+The purpose of this disclosure is to establish prior art for:
+
+• hybrid solar-wave renewable energy systems  
+• floating modular renewable energy architectures  
+• integrated photovoltaic and wave energy harvesting platforms  
+• marine-protected photovoltaic structures  
+• scalable ocean renewable energy farms  
+
+The combinations described in this repository are publicly disclosed to prevent exclusive patent claims over the described system architectures.
+
+---
+
+# Defensive Publication Statement
+
+This document forms part of a public defensive publication describing the Ocean Hybrid Solar–Wave Energy Platform (OHSWEP) architecture.
+
+All technological combinations described in this document are disclosed as prior art.
+
+This publication is intended to prevent exclusive patent claims on the disclosed hybrid renewable energy system architectures.
+
+---
+
+End of Document
